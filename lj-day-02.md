@@ -7,4 +7,4 @@ git Add {file Name} - This command updates the index using the current content f
 git commit -m {'commit description'} - This stores the current contents of the index in a new commit along with a log message from the user describing the changes.  
 git push {origin} + {master} - This updates remote refs using local refs, while sending objects necessary to complete the given refs.  
 
-We were introduced a bit on CSS, learned how to properly link an external css file to our html page. We also learn linking external JS files in to our html files.
+We were introduced a bit on CSS, learned how to properly link an external css file to our html page. We also learned linking external JS files in to our html files.
