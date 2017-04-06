@@ -1,6 +1,6 @@
 # First Learning Journal - Day 02  
 
-Today we learned how to use/navigate git thru the terminal. Git and Github are two different things. Git helps developers keep track of files over time. As best practice we should commit as often as possible. The more I use git thru the terminal, the easier it becomes, I'm actually starting to like it. The basic git commands are as follow:
+Today we learned how to use/navigate git thru the terminal. Git and Github are two different things. Git helps developers keep track of files over time. As best practice we should commit as often as possible. The more I use git thru the terminal, the easier it becomes, I'm actually starting to like it. The basic git commands are as follow:  
 
 git Clone {URL} - This downloads  your git repositories  
 git Add {file Name} - This command updates the index using the current content found in the working tree, to prepare the content staged for the next commit.  
