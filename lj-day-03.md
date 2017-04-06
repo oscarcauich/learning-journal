@@ -4,6 +4,6 @@ Today was an interesting day.  We were introduced to loops and Arrays. Today was
 
 We also learned how to create and switch to a new Github branch. It is important to work out of git branches rather than working directly with the master branch. We were also told how to create a pull request form with Github and how to merge one branch to the master branch.  
 
-We kept on learning CSS, key concepts introduced today were, padding, borders, margins, inline and block.  
+We kept on learning CSS, key concepts introduced today were, pading, borders, margins, inline and block.  
 
 I hope everyday is like today, programming Rocks!  
