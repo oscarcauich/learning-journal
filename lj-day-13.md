@@ -1,5 +1,5 @@
-#Learning Journal - Day 13
+#Learning Journal - Day 15
 
-Today we were given a problem we needed to solved using what we already learned in the last two weeks and for some reason I felt like I got stuck and couldn't figure out how to solve the problem. I don't really know why I can't seem to find the answer to the problem and no matter I tried it just didn't work. I did I lot of research and I was able to understand and read the sample code on website but I just couldn't figure out how to put together lines of code to solve the problem I needed to solve.  
+Alright finally I was able to overcome my road blocks and get busmall working. It took me a really long time to figure out the solution. I read a ton of articles, watched a lot of videos, but I was able to get it working. From what I heard during the 401 teacher's conversation, this is a normal day for a software developer. What I learn from this lab specifically is that no matter how difficult or frustrating a problem might be, there is always a way to solve it, we just how to learning to search for the solution.  
 
-Overall I feel like I understand javascript how it works and stuff but I can't or don't know how to implement what I have learned to solve a problem. I wonder if this is normal, but in the process of figuring this out, it is really frustrating.  
+I'm eager to start the next day and get a new challenge, from the article that I read this is how we grow technically and mentally. We have to push ourselves to be better, to be the best. If we get too comfortable we will stay in the same place, the best developers are the ones the push themselves out of their comfort zones, and I want to be that developer.  
