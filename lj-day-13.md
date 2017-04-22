@@ -1,5 +1,6 @@
-#Learning Journal - Day 15
+#Learning Journal - Day 17
 
-Alright finally I was able to overcome my road blocks and get busmall working. It took me a really long time to figure out the solution. I read a ton of articles, watched a lot of videos, but I was able to get it working. From what I heard during the 401 teacher's conversation, this is a normal day for a software developer. What I learn from this lab specifically is that no matter how difficult or frustrating a problem might be, there is always a way to solve it, we just how to learning to search for the solution.  
+Today was amazing day, I was assigned to work the the gamer pair project. The week kind of started rough since it took me a good couple days to get caught up with the busmall project. But as always we need to keep trying and eventually we will see the light at the end of the tunnel.  
 
-I'm eager to start the next day and get a new challenge, from the article that I read this is how we grow technically and mentally. We have to push ourselves to be better, to be the best. If we get too comfortable we will stay in the same place, the best developers are the ones the push themselves out of their comfort zones, and I want to be that developer.  
+Today during class I was a bit lost with javascript inheritance, honestly it doest look a bit more complicated than PHP's inheritance, but I guess it is just practice. At the end of week three I do feel really good with the amount of concepts I've learned. I totally looking forward for next week to start writing some JS code.  
+ 
